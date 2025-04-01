@@ -1,1 +1,1 @@
-# SI339_exam2_practice
+# practice_js_exam
